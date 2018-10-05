@@ -1,0 +1,31 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "ipayed",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+     "operatorsAliases": false,
+     "logging": false
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "ipayed",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false,
+       "operatorsAliases": false
+  },
+  "production": {
+    "username": "root",
+    "password": "root",
+    "database": "ipayed",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+       "operatorsAliases": false
+  }
+}
+
+
+
